@@ -1,5 +1,5 @@
 - 🔭 Olá! Sou Daniele Gonçalves 
-- 🌱 Procuro me desenvolver como programadora fullstack.
+- 🌱 Procuro me desenvolver como programadora.
 
 <div align="center">
   <a href="https://github.com/danigonc">
