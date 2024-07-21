@@ -10,7 +10,7 @@
 
 ou
 
-Conhecer meu perfil no [linkedin]([linkedin.com/in/daniele-gonçalves-31692433](https://www.linkedin.com/in/daniele-gon%C3%A7alves-31692433/))
+Conhecer meu perfil no [linkedin](https://www.linkedin.com/in/daniele-gon%C3%A7alves-31692433?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BflgtIpoKRJSWfb4aJlMgtg%3D%3D)
   
 
 <div align="center">
