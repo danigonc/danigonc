@@ -4,7 +4,7 @@
 - Procuro me desenvolver como programadora.💻
 - Utilizo o GitHub como portfólio de alguns projetos desenvolvidos em cursos aos quais participo.📑
 
-### Você pode me entrar em contato comigo...
+### Você pode entrar em contato comigo...
 
 📧 dagonc@gmail.com
 
