@@ -1,5 +1,17 @@
-- 🔭 Olá! Sou Daniele Gonçalves 
-- 🌱 Procuro me desenvolver como programadora.
+- 🔭 Olá! Boas vindas ao meu perfil❣️
+
+- 😊 Sou Daniele Gonçalves 
+- Procuro me desenvolver como programadora.💻
+- Utilizo o GitHub como portfólio de alguns projetos desenvolvidos em cursos aos quais participo.📑
+
+### Você pode me entrar em contato comigo...
+
+📧 dagonc@gmail.com
+
+ou
+
+Conhecer meu perfil no [linkedin](linkedin.com/in/daniele-gonçalves-31692433)
+  
 
 <div align="center">
   <a href="https://github.com/danigonc">
