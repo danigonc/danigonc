@@ -2,7 +2,7 @@
 
 - 😊 Sou **Daniele Gonçalves** 
 - Procuro me desenvolver como programadora.💻
-- Utilizo o GitHub como portfólio de alguns projetos desenvolvidos em cursos que frequentei.📑
+- Utilizo o GitHub como portfólio de alguns projetos desenvolvidos em formações e cursos.📑
 
 ### Você pode entrar em contato comigo...
 
