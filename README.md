@@ -1,6 +1,6 @@
 -  ###  🔭 Olá! Boas vindas ao meu perfil❣️
 
-- 😊 Sou Daniele Gonçalves 
+- 😊 Sou **Daniele Gonçalves** 
 - Procuro me desenvolver como programadora.💻
 - Utilizo o GitHub como portfólio de alguns projetos desenvolvidos em cursos aos quais participo.📑
 
