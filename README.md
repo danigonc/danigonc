@@ -1,4 +1,4 @@
--  ###  🔭 Olá! Boas vindas ao meu perfil❣️
+-  #  🔭 Olá! Boas vindas ao meu perfil❣️
 
 - 😊 Sou **Daniele Gonçalves** 
 - Procuro me desenvolver como programadora.💻
